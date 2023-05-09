@@ -42,7 +42,7 @@ toronto_subway json format
 
 ![Pyspark to MongoDB Sample ](https://github.com/ktchan33GBC/Datapipline_proj_TTC_weather/blob/main/image/mongoDB_connection.png)
 
-![Data Visualization Sample](https://github.com/ktchan33GBC/Datapipline_proj_TTC_weather/blob/main/image/ttc%26weather_powerbi_page1.pdf)
+![Data Visualization Sample](https://github.com/ktchan33GBC/Datapipline_proj_TTC_weather/blob/main/image/ttc%26weather_powerbi_page1.png)
 ## Support
 
 For support, email katsunchanai@gmail.com
